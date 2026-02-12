@@ -63,7 +63,7 @@ footer {
 <body>
 
 <header>
-  <h1>Hi, I'm Fuad Mohammed</h1>
+  <h1>Hi, I'm Fuad reshad Mohammed</h1>
   <p>I Build Modern Websites, Mobile Apps & Telegram Bots</p>
   <a href="#contact" class="btn">Hire Me</a>
 </header>
@@ -97,13 +97,13 @@ footer {
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>📞 0901562151</p>
+  <p>📞 0929035331</p>
   <p>📧 fuadrsehad11@email.com</p>
   <p>Telegram: @FuadDev</p>
 </section>
 
 <footer>
-  © 2026 Fuad Mohammed. All Rights Reserved.
+  © 2026 Fuad reshad Mohammed. All Rights Reserved.
 </footer>
 
 </body>
